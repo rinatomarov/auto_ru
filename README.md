@@ -1,2 +1,2 @@
 # auto_ru
-Car Price prediction | Прогнозирование стоимости автомобиля по характеристикам
+Car Price prediction | Predicting the value of a car by characteristics using machine learning
